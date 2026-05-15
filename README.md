@@ -83,18 +83,14 @@ The cleaned dataset was imported into **PostgreSQL**, where multiple analytical 
 * Identification of **top purchased products**
 * Customer segmentation into **New, Returning, and Loyal customers** based on previous purchases 
 
-### 5. Power BI Dashboard
-
-A **Power BI interactive dashboard** was built to visualize key insights including:
-
-* Customer purchase trends
-* Revenue by gender
-* Top performing products
-* Customer segments
-* Discount usage patterns
+### 5. Power BI Dashboard s
 * Revenue by age group
 
 The dashboard enables quick exploration of customer behavior and product performance.
+
+### 6. Screenshot
+Show what the dashboard looks like
+
 
 ---
 
