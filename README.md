@@ -90,7 +90,7 @@ The dashboard enables quick exploration of customer behavior and product perform
 
 ### 6. Screenshot
 Show what the dashboard looks like
-Example :
+Example :https://github.com/Shweta-Kamilkar/Customer_shopping_behaviour_project1/blob/main/Shopping%20Insights.png
 
 
 ---
