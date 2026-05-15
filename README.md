@@ -173,9 +173,6 @@ Customer-Shopping-Analysis
 ├── dashboard
 │   └── customer_behavior_dashboard.pbix
 │
-├── report
-│   └── project_report.pdf
-│
 └── README.md
 ```
 
