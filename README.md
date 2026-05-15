@@ -126,7 +126,7 @@ These insights can help businesses improve **marketing strategies, customer targ
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-shopping-analysis.git
+git clone https://github.com/Shweta-Kamilkar/customer-shopping-analysis.git
 ```
 
 ### 2. Install Required Python Libraries
