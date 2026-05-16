@@ -83,7 +83,7 @@ The cleaned dataset was imported into **PostgreSQL**, where multiple analytical 
 * Identification of **top purchased products**
 * Customer segmentation into **New, Returning, and Loyal customers** based on previous purchases 
 
-### 5. Power BI Dashboard s
+### 5. Power BI Dashboards
 * Revenue by age group
 
 The dashboard enables quick exploration of customer behavior and product performance.
